@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+int calc_multiply(int a, int b) { return a * b; }
+
 int calc_divide(int a, int b) { return a / b; }
 
 int main() {
